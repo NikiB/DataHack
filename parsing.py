@@ -13,4 +13,3 @@ def sites(path):
         yield site
         row = f.readline()
 
-
